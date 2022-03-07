@@ -14,6 +14,11 @@ HTML CSS Javascript
 
 Website:
 
-https://horiseon-mock.hostman.site/
+https://honeytwix.github.io/HoneyTwix-Password-Generator/
 
 Screenshot:
+![Password Generator](./images/Screenshot%20(5).png)
+
+Contribution:
+
+Made with love by Justin Anakani
